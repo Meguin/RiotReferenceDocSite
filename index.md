@@ -2,6 +2,10 @@
 
 Welcome to Riot Operations's API Reference site.
 
+## Table of Contents
+* auto-gen TOC:
+{:toc}
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
