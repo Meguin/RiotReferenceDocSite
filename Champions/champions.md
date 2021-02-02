@@ -9,9 +9,10 @@ In League of Legends, Champions are player-controlled units. Each champion posse
 {:toc}
 
 # Properties
-|String   ``ChampionName``  |
+|string ``ChampionName``  |
 |---------------------------|
 | Sets the name of a Champion |
+
 
 # Functions
 
