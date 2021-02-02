@@ -2,14 +2,41 @@
 
 
 # Overview
-``find_champions`` loops through a list of champions and returns a new list at the end of the function. 
+``find_champions`` is a function that you can call to return a champion.
 
-# Table of Contents
-* auto-gen TOC:
-{:toc}
+# List of Champions
+This reference takes in a dictionary, which contains an available list of champions with keys for their name, role, and origin. 
 
-# Properties
+Here's an example of a dictionary with champions:
+```
+champion_data = [
+ {
+ 'name': 'ahri',
+ 'role': 'mid lane',
+ 'origin': 'vastaya'
+ },
+ {
+ 'name': 'teemo',
+ 'role': 'top lane',
+ 'origin': 'bandle city'
+ },
+ {
+ 'name':'gangplank',
+ 'role': 'top lane',
+ 'origin': 'bilgewater'
+ },
+ {
+ 'name': 'sona',
+ 'role': 'support',
+ 'origin': 'ionia'
+ },
+ {
+ 'name': 'miss fortune',
+ 'role': 'marksman',
+ 'origin': 'bilgewater'
+ }
+]
+```
 
-# Functions
 
-# Events
+# Code Sample
