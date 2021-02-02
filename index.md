@@ -1,7 +1,3 @@
----
-  nav: "sitenav"
----
-
 # API Reference
 
 Welcome to Riot Operations's API Reference site.
