@@ -2,5 +2,3 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 logo: /Riot.png
 title: Riot Operations API
-sidebar:
-  nav: "sitenav"
