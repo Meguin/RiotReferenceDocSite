@@ -1,0 +1,12 @@
+- title: Home
+  url: /API Reference
+
+- title: Getting Started with Riot's API
+  url: /getting_started/
+  sublinks:
+    - title: Getting Started with the Riot Operations API
+      url: /getting_started/getting_started_landing_page.html
+    - title: Sub-item 2
+      url: /group/si2
+    - title: Sub-item 3
+      url: /group/si3
