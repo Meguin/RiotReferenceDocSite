@@ -9,9 +9,9 @@ a
 color: #d13639;
 }
 
-a.hover, a.focus
+a.hover
 {
-  color: #d13639;
+  color: #d13639!important;
 }
 
 h1, h2, h3, h4, h5, h6
@@ -19,6 +19,14 @@ h1, h2, h3, h4, h5, h6
   color: #FFFFFF;
 }
 
+nav strong
+{
+  color: #FFFFFF;
+}
+code.language-plaintext.highlighter-rouge
+{
+  color:#e7e6e2;
+}
 
 
 /* Site Colors and Spacing */
@@ -45,4 +53,11 @@ body
 {
   background-color: #222222;
   color:#FFFFFF;
+}
+
+/* Code Block */
+pre.highlight
+{
+  background-color: #484848;
+  border: 1px solid #d13639;
 }
