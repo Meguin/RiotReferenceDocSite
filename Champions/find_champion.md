@@ -48,11 +48,13 @@ champion_data = [
 
 # Behavior
 * If `name` is specified and a Champion with that name exists, a single-element list is returned with that matching champion.
-* If no match is found, and a `role` and `origin` have been specified, a list containing all champions whose `role` and `origin` match will be returned. 
+* If no match is found, and a `role` or `origin` have been specified, a list containing all champions whose `role` or `origin` match will be returned. 
 
 # Code Sample
+
+Here's an example of `find_champions` in action:
 ```
-def find_champion(name='sona', role='support', origin='ionia'):
+def find_champion(name=None, role=None, origin=None):
  champion_suggestions = []
  for champ in champion_data:
  	if name:
@@ -66,4 +68,16 @@ def find_champion(name='sona', role='support', origin='ionia'):
  			continue
  	champion_suggestions.append(champ)
  return champion_suggestions
+ 
+ champions = find_champion(name='sona')
+ 
+ print(champions)
+```
+
+## Example Output
+If you ran the above, you would see the following result:
+
+```
+[{'name': 'sona', 'role': 'support', 'origin': 'ionia'}]
+
 ```
