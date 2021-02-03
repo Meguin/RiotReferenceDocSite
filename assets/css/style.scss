@@ -28,18 +28,44 @@ code.language-plaintext.highlighter-rouge
   color:#e7e6e2;
   border: 1px solid #e7e6e2;
   border-radius: 2px;
+  padding: 2px;
 }
 
-
-/* Site Colors and Spacing */
-
+/* Header Styling */
 header
 {
   background:#e7e6e2;
   width: 300px;
   height: 100%;
   padding: 10px 20px;
+  box-shadow: 0 4px 8px 0 rgb(231 230 226 / 20%), 0 6px 8px 0 rgb(231 230 226 / 20%);
 }
+
+header ul a
+{
+  font-size: 14px!important;
+  color: #d13639!important;
+  text-align: left!important;
+  padding: 5px!important;
+}
+
+header ul
+{
+  height: 50%!important;
+  border: none!important;
+  background: #484848!important;
+}
+
+header li
+{
+  width: 90%!important;
+  float: left;
+  border-right: none!important;
+  border-bottom: 1px solid #e7e6e2!important;
+}
+
+
+/* Site Colors and Spacing */
 
 footer
 {
@@ -67,27 +93,4 @@ pre.highlight
 {
   background-color: #484848;
   border: 1px solid #d13639;
-}
-
-/* Removing Weird Header Buttons */
-header ul a
-{
-  font-size: 14px!important;
-  color: #d13639!important;
-  text-align: left!important;
-  padding: 5px!important;
-}
-
-header ul
-{
-  height: 50%!important;
-  border: 1px solid #d13639!important;
-}
-
-header li
-{
-  width: 90%!important;
-  float: left;
-  border-right: none!important;
-  border-bottom: 1px solid #e7e6e2!important;
 }
