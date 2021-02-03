@@ -12,5 +12,5 @@ Greetings, Developer. Welcome to Riot Operations's API Reference site!
 {:.navTableChamps}
 |![Ahri](icons8-ahri-50.png) Champions |
 |-----------|
-| [Champions](/Champions/champions.md)  |
+| [Champion](/Champions/champion.md)  |
 | [find_champions](/Champions/find_champion.md)|
