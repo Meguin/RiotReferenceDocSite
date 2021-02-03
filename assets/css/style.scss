@@ -21,6 +21,11 @@ h1, h2, h3, h4, h5, h6
   color: #FFFFFF;
 }
 
+h1 a
+{
+  font-weight: bold;
+}
+
 nav strong
 {
   color: #FFFFFF;
@@ -48,6 +53,11 @@ header ul a
   color: #d13639!important;
   text-align: left!important;
   padding: 5px!important;
+}
+
+header ul a:hover, header ul a:focus
+{
+  font-weight: normal;
 }
 
 header ul
@@ -101,4 +111,10 @@ pre.highlight
 .highlight
 {
   background-color: #222222;
+}
+
+/* Tables */
+th
+{
+  color: #e7e6e2;
 }
