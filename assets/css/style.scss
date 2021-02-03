@@ -2,17 +2,38 @@
 ---
 
 @import "{{ site.theme }}";
+/* Styling Text */
+
 a
 {
 color: #d13639;
 }
 
+a.hover, a.focus
+{
+  color: #d13639;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+  color: #FFFFFF;
+}
+
+
+
+/* Site Colors and Spacing */
+
 header
 {
-  background: #e6e6e8;
+  background:#e7e6e2;
   width: 300px;
   height: 100%;
   padding: 10px 20px;
+}
+
+footer
+{
+  padding: 10px;
 }
 
 nav
@@ -22,6 +43,6 @@ nav
 
 body
 {
-  background-color: #f3f3f4;
-  color:black;
+  background-color: #222222;
+  color:#FFFFFF;
 }
