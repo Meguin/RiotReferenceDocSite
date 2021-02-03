@@ -5,5 +5,5 @@
 In League of Legends, Champions are player-controlled units. Each champion possesses unique abilities and characteristics. 
 
 ## References
-* [Champions](champions.md)
+* [Champion](champion.md)
 * [find_champion](find_champion.md)
