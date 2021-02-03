@@ -1,7 +1,9 @@
-# API Reference
+# Riot Operations API
 
-Welcome to Riot Operations's API Reference site.
+Greetings, Developer. Welcome to Riot Operations's API Reference site!
 
-# Site Navigation
-* [Getting Started with Riot's API](/getting_started/getting_started_landing_page.md)
-* [Champions](/Champions/champions_landing_page.md)
+<h2> Site Navigation </h2>
+        <ul class="homepage_nav">
+          <li class="homepage_nav"><a href="https://meguin.github.io/RiotReferenceDocSite/getting_started/getting_started_landing_page.html">Getting Started With the Riot Operations API</a></li>
+          <li><a href="https://meguin.github.io/RiotReferenceDocSite/Champions/champions_landing_page.html">Champions</a></li>
+        </ul>
