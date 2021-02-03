@@ -12,6 +12,8 @@ color: #d13639;
 a:hover, a:focus
 {
   color: #d13639!important;
+  text-decoration: underline;
+  font-weight: normal;
 }
 
 h1, h2, h3, h4, h5, h6
@@ -64,7 +66,7 @@ header li
 }
 header ul a:active
 {
-  background-color:none!important;
+  background-color:#FFF!important;
 }
 
 /* Site Colors and Spacing */
@@ -95,4 +97,8 @@ pre.highlight
 {
   background-color: #484848;
   border: 1px solid #d13639;
+}
+.highlight
+{
+  background-color: #222222;
 }
