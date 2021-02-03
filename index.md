@@ -1,8 +1,7 @@
-# Riot Operations API
 
 Greetings, Developer. Welcome to Riot Operations's API Reference site!
 
-## Site Navigation
+# Site Navigation
 
 {:.navTableStart}
 
