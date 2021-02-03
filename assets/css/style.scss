@@ -34,7 +34,7 @@ code.language-plaintext.highlighter-rouge
 /* Header Styling */
 header
 {
-  background:#e7e6e2;
+  background:#484848;
   width: 300px;
   height: 100%;
   padding: 10px 20px;
@@ -62,7 +62,10 @@ header li
   border-right: none!important;
   border-bottom: 1px solid #e7e6e2!important;
 }
-
+header ul a:active
+{
+  background-color:none!important;
+}
 
 /* Site Colors and Spacing */
 
