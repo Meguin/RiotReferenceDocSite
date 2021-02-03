@@ -6,13 +6,13 @@ Greetings, Developer. Welcome to Riot Operations's API Reference site!
 
 {:.navTableStart}
 
-| Getting Started |
+|![Get Started](icons8-rest-api-64.png) Getting Started |
 | ------------- |
 | Getting Started With the Riot Operations API  |
 | Lorem Ipsum  |
 
 {:.navTableChamps}
-| Champions |
+|![Ahri](icons8-ahri-50.png) Champions |
 |-----------|
 | Champions  |
 | find_champions|
