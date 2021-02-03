@@ -48,7 +48,7 @@ champion_data = [
 
 # Behavior
 * If `name` is specified and a Champion with that name exists, a single-element list is returned with that matching champion.
-* If no match is found or no name is specified, and a `role` or `origin` have been specified, a list containing all champions whose `role` or `origin` match will be returned. 
+* If no match is found or no name is specified, and a `role` or `origin` have been specified, a list containing all champions whose `role` and `origin` match the provided will be returned. 
 
 # Code Sample
 
