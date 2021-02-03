@@ -10,7 +10,8 @@ Welcome, Rioter! Level up your knowledge of Riot's inner workings by using the R
 
 ## Calling the Riot Operations API
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at convallis lorem, tincidunt porttitor enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-``curl https://wwww.riotoperations.com/api/``
+
+```curl https://wwww.riotoperations.com/api/```
 
 ## Authentication
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at convallis lorem, tincidunt porttitor enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
